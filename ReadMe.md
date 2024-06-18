@@ -1,18 +1,19 @@
-## Evaluación Final Módulo 1
+# Final Evaluation Module 1
 
-El Lecciones del Módulo 1 son:
+## Module 1 lessons:
 
 1. Variables
-2. Listas y Tuplas
-3. Diccionarios y Sets
-4. Sentencias de control
-5. Funciones
-6. Clases
+2. Lists and Tuples
+3. Dictionaries and Sets
+4. Control statements
+5. Functions
+6. Class
 7. Regex
 
 
 
-Este es un ejercicio para evaluar lo aprendido durante este Módulo 1, creando una clase llamada TiendaOnline y haciendo uso dentro de la misma de variables, funciones y métodos.
+### Exercise to evaluate.
+ Create a Class (TiendaOnline) and use variables, functions, methods, lists and dictionaries and apply everything learned in module 1.
 
 
 
